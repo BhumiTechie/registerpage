@@ -1,8 +1,11 @@
 import React from 'react'
+import Card from './Card'
 
 const Show = () => {
   return (
-	<div></div>
+	<div>
+    <Card/>
+  </div>
   )
 }
 
